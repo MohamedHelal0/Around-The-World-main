@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- [Author](https://github.com/MMansy19)
-- [Website](https://mahmoud-mansy-portfolio.netlify.app/)
-- [Email](mailto:mahmoud2abdalfattah@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-mansy-a189a5232)
+- [Author](https://github.com/MohamedHelal0)
+- [Website](#)
+- [Email](mailto:mhamed.helal3@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-helal2002/)
