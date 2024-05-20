@@ -4,8 +4,6 @@
 
 Around The World is a React project that displays information cards for various countries. The project utilizes an API to fetch data about different countries and presents it in a user-friendly interface. The application is responsive, featuring a region menu to filter countries by continent, a dark theme option, a search bar for easy navigation, and the ability to view detailed information about a country by clicking on its card.
 
-## [Live Link🌟](https://around-the-world-mansy.vercel.app/)
-
 ## Screenshots
 
 ### Flow Chart 
